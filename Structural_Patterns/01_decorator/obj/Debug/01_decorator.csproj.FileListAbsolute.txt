@@ -1,7 +1,0 @@
-D:\CSharp_projects\design_patterns\Structural_Patterns\01_decorator\bin\Debug\01_decorator.exe.config
-D:\CSharp_projects\design_patterns\Structural_Patterns\01_decorator\bin\Debug\01_decorator.exe
-D:\CSharp_projects\design_patterns\Structural_Patterns\01_decorator\bin\Debug\01_decorator.pdb
-D:\CSharp_projects\design_patterns\Structural_Patterns\01_decorator\obj\Debug\01_decorator.csprojAssemblyReference.cache
-D:\CSharp_projects\design_patterns\Structural_Patterns\01_decorator\obj\Debug\01_decorator.csproj.CoreCompileInputs.cache
-D:\CSharp_projects\design_patterns\Structural_Patterns\01_decorator\obj\Debug\01_decorator.exe
-D:\CSharp_projects\design_patterns\Structural_Patterns\01_decorator\obj\Debug\01_decorator.pdb
