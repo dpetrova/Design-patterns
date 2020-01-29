@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_proxy", "03_proxy_(virtu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_proxy_example", "04_proxy_example\04_proxy_example.csproj", "{86D9A8FD-248E-423D-8915-27F0F615F5CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_bridge", "05_bridge\05_bridge.csproj", "{D520F398-5A68-4F35-A31E-3FE743CCE3A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_bridge_example", "06_bridge_example\06_bridge_example.csproj", "{3936FEB0-8172-4B6E-ABE6-B3D3C9449C01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{86D9A8FD-248E-423D-8915-27F0F615F5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86D9A8FD-248E-423D-8915-27F0F615F5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86D9A8FD-248E-423D-8915-27F0F615F5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D520F398-5A68-4F35-A31E-3FE743CCE3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D520F398-5A68-4F35-A31E-3FE743CCE3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D520F398-5A68-4F35-A31E-3FE743CCE3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D520F398-5A68-4F35-A31E-3FE743CCE3A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3936FEB0-8172-4B6E-ABE6-B3D3C9449C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3936FEB0-8172-4B6E-ABE6-B3D3C9449C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3936FEB0-8172-4B6E-ABE6-B3D3C9449C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3936FEB0-8172-4B6E-ABE6-B3D3C9449C01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
