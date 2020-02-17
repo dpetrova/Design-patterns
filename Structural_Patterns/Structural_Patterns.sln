@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_flyweight", "08_flyweigh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_adapter", "09_adapter\09_adapter.csproj", "{8CB8F573-B3CD-4137-BA9D-339F3A47776C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_adapter_two-way", "10_adapter_two-way\10_adapter_two-way.csproj", "{A348A692-18F6-4A6E-BBBA-C48D7099DD5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_adapter_pluggable", "11_adapter_pluggable\11_adapter_pluggable.csproj", "{D03CD053-18A5-491F-A533-BFFC701056C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{8CB8F573-B3CD-4137-BA9D-339F3A47776C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CB8F573-B3CD-4137-BA9D-339F3A47776C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CB8F573-B3CD-4137-BA9D-339F3A47776C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A348A692-18F6-4A6E-BBBA-C48D7099DD5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A348A692-18F6-4A6E-BBBA-C48D7099DD5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A348A692-18F6-4A6E-BBBA-C48D7099DD5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A348A692-18F6-4A6E-BBBA-C48D7099DD5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D03CD053-18A5-491F-A533-BFFC701056C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03CD053-18A5-491F-A533-BFFC701056C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03CD053-18A5-491F-A533-BFFC701056C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03CD053-18A5-491F-A533-BFFC701056C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
