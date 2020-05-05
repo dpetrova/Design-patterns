@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_state_example", "03_stat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_template_method", "04_template_method\04_template_method.csproj", "{2269012C-2032-48FC-BD2A-E1ECB37BAA76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_chain_of_responsibility", "05_chain_of_responsibility\05_chain_of_responsibility.csproj", "{98A7CBDA-6C1A-4B19-8914-5CF1EEEB1ADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_chain_of_responsibility_example", "06_chain_of_responsibility_example\06_chain_of_responsibility_example.csproj", "{5D461263-9DB9-4545-9E51-D71F4699082F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{2269012C-2032-48FC-BD2A-E1ECB37BAA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2269012C-2032-48FC-BD2A-E1ECB37BAA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2269012C-2032-48FC-BD2A-E1ECB37BAA76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98A7CBDA-6C1A-4B19-8914-5CF1EEEB1ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A7CBDA-6C1A-4B19-8914-5CF1EEEB1ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A7CBDA-6C1A-4B19-8914-5CF1EEEB1ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A7CBDA-6C1A-4B19-8914-5CF1EEEB1ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D461263-9DB9-4545-9E51-D71F4699082F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D461263-9DB9-4545-9E51-D71F4699082F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D461263-9DB9-4545-9E51-D71F4699082F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D461263-9DB9-4545-9E51-D71F4699082F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
