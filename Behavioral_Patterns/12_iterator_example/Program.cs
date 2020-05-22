@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 //Suppose we have a family tree. 
 //The goal of the example is to traverse the tree and select people with various criteria for printing.

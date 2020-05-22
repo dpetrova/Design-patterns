@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_iterator(linq)", "11_ite
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_iterator_example", "12_iterator_example\12_iterator_example.csproj", "{DBDDC6BC-3E95-4FCC-93A1-781D8441871C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_mediator", "13_mediator\13_mediator.csproj", "{B997A560-E6A5-4E1C-9246-A7CB8025645C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_mediator_example", "14_mediator_example\14_mediator_example.csproj", "{5DF4A492-4CF5-40C4-9FFD-12E4AB3A881F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{DBDDC6BC-3E95-4FCC-93A1-781D8441871C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBDDC6BC-3E95-4FCC-93A1-781D8441871C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBDDC6BC-3E95-4FCC-93A1-781D8441871C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B997A560-E6A5-4E1C-9246-A7CB8025645C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B997A560-E6A5-4E1C-9246-A7CB8025645C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B997A560-E6A5-4E1C-9246-A7CB8025645C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B997A560-E6A5-4E1C-9246-A7CB8025645C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF4A492-4CF5-40C4-9FFD-12E4AB3A881F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF4A492-4CF5-40C4-9FFD-12E4AB3A881F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF4A492-4CF5-40C4-9FFD-12E4AB3A881F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF4A492-4CF5-40C4-9FFD-12E4AB3A881F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
