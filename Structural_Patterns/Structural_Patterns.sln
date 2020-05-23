@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.902
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_decorator", "01_decorator\01_decorator.csproj", "{A8CF6643-D9BA-447D-A93B-6A0DAAA76F79}"
 EndProject
@@ -26,6 +26,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_adapter_pluggable", "11_adapter_pluggable\11_adapter_pluggable.csproj", "{D03CD053-18A5-491F-A533-BFFC701056C5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_facade", "12_facade\12_facade.csproj", "{FC7F7FD1-FD16-4195-AEC8-2F92DC7F862D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_adapter_pluggable_example", "11_adapter_pluggable_example\11_adapter_pluggable_example.csproj", "{9472B283-DE71-4D34-BE0B-0325CA85A9E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{FC7F7FD1-FD16-4195-AEC8-2F92DC7F862D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC7F7FD1-FD16-4195-AEC8-2F92DC7F862D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC7F7FD1-FD16-4195-AEC8-2F92DC7F862D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9472B283-DE71-4D34-BE0B-0325CA85A9E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9472B283-DE71-4D34-BE0B-0325CA85A9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9472B283-DE71-4D34-BE0B-0325CA85A9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9472B283-DE71-4D34-BE0B-0325CA85A9E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
